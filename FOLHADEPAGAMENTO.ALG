@@ -22,15 +22,12 @@ senao
       se(codigo = 103) entao
          salcorrigido <- salatual * 1.3
       senao
-         se(codigo = 104) entao
             salcorrigido <- salatual * 1.4
             
          fimse
          
    fimse
       
-fimse
-
 fimse
 
 escreva("O salário atual é:", salatual)
