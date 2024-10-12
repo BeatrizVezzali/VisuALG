@@ -30,9 +30,9 @@ senao
       
 fimse
 
-escreva("O salário atual é:", salatual)
+escreva("O salário atual é R$:", salatual)
 
-escreva("O salário corrigido é de:", salcorrigido)
+escreva("O salário corrigido é de R$:", salcorrigido)
 
 escreva("O aumento é de", salcorrigido - salatual, "%")
 

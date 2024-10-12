@@ -3,6 +3,8 @@ Algoritmo "numeromaior"
 Var
 num1, num2, num3, maior: inteiro
 
+
+
 Inicio
 
 escreva("Digite o primeiro número:")
@@ -29,6 +31,6 @@ se(num3 > num1) entao
 
 fimse
 
-escreva(" O maior é:", maior)
+escreva("O maior é:", maior)
 
 Fimalgoritmo
